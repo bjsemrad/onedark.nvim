@@ -56,11 +56,12 @@ return {
 		diff_text = "#274964",
 	},
 	soft = {
-		black = "#0e1013",
-		bg0 = "#1a1d23",
-		bg1 = "#24282f",
-		bg2 = "#2c323a",
-		bg3 = "#2e323c",
+		black = "#08090b",
+		bg_d = "#0e1013", -- sidebars, floats, statusline
+		bg0 = "#121418", -- main editor background
+		bg1 = "#1a1d22", -- cursorline, popups
+		bg2 = "#22252b", -- selection, pmenu
+		bg3 = "#262a31", -- borders, inactive bits
 		bg_d = "#15171b",
 		bg_blue = "#8eb1cc",
 		bg_yellow = "#d1bc94",
